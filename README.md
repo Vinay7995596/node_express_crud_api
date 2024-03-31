@@ -1,8 +1,10 @@
 # Build a REST API with Node JS and Express
 
-![REST API](https://i.ibb.co/7GWCCbp/Screenshot-2020-07-12-at-08-30-32.png)
+this develop only node js.
+this will take localhost:5000 in postman
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+when post data will post in localhost and itwill display
 
-In this video, we will create a Node JS and Express JS CRUD REST API.
+it can delete iem when localhost:5000/people/:id=""
+
+it not take acces.
